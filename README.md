@@ -1,17 +1,18 @@
 ### Olá, eu sou o Gianluca! 👋
 
 <p align="left">
-  Sou um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia, com foco especial no ecossistema Java e na construção de soluções back-end. Estou em busca da minha primeira oportunidade como desenvolvedor júnior ou estagiário para aplicar minhas habilidades e aprender com projetos desafiadores.
+  Sou Técnico em Desenvolvimento de Sistemas, apaixonado por tecnologia e focado na construção de soluções Back-End, principalmente no ecossistema Java. Minha vivência profissional na área de Logística me proporcionou uma forte visão sistêmica sobre regras de negócio corporativas (estoque, faturamento). Busco minha primeira oportunidade como Desenvolvedor Júnior ou Analista de Suporte, com sólida base em lógica e Orientação a Objetos, e total disposição para aprender e atuar com novas linguagens conforme a necessidade da equipe!
 </p>
 
 ---
 
--   🌱 Atualmente estou aprimorando meus conhecimentos em **Spring Boot** e **APIs REST**.
--   💻 Meus projetos, incluindo este portfólio, estão disponíveis aqui no meu GitHub.
--   📫 Como me encontrar:
-    -   **LinkedIn:** [Gianluca Grignani](https://www.linkedin.com/in/gianluca-grignani-a30b64264/)
-    -   **Email:** grignanigian14@gmail.com
--   📄 Confira meu **[Currículo Online Interativo](https://giangrig.github.io/curriculo/)** para ver meus projetos em ação!
+- 🎓 Recentemente concluí a **Formação Java e Orientação a Objetos (POO)** pela Alura.
+- 🌱 Atualmente aprimorando conhecimentos na construção de **APIs REST** com **Spring Boot**.
+- 💡 Desenvolvi projetos práticos como um **Sistema de Gestão de EPIs** e um protótipo de **Monitoramento IoT**.
+- 📫 Como me encontrar:
+    - **LinkedIn:** [Gianluca Grignani](https://www.linkedin.com/in/gianluca-grignani-a30b64264/)
+    - **Email:** grignanigian14@gmail.com
+- 📄 Confira meu **[Currículo Online Interativo](https://giangrig.github.io/curriculo/)** para ver meus projetos em ação!
 
 <br/>
 
@@ -26,6 +27,15 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
